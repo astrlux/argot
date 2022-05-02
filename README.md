@@ -18,4 +18,4 @@ cd ~/.config/nvim/spell/ && wget https://github.com/astrlux/argot/blob/master/en
 
 ## Ideas:
 
-I think to be more efficient in creating spellfiles for different domains really fast I can run some deriviative of TF-IDF on canonical literature for the field in question and extract the semi-unique tokens.
+I think to be more efficient in creating spellfiles for different domains really fast I can run some deriviative of TF-IDF on canonical literature for the field in question and extract the semi-unique tokens. Setting that up is a project in and of itself. Any suggestions on how to collect mass spellfiles?
